@@ -1,0 +1,66 @@
+body {
+    background-color: #171717;
+}
+
+.container {
+    background-color: white;
+    width: 33%;
+    height: 15%;
+    font-family: 'Handlee', cursive;
+    margin: 15% 35%;
+    box-sizing: border-box;
+
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 10px;
+}
+
+img {
+    width: 60px;
+    padding-right: 5px;
+    margin-top: 10px;
+}
+
+.centro {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0px;
+    box-sizing: border-box;
+}
+
+p {
+    width: 230px;
+    margin-left: 15px;  
+    font-weight: bold;
+    font-size: 18px;  
+}
+
+input {
+    border-style: none;
+    border-bottom-style: solid;
+    font-family: 'Handlee', cursive;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px;
+    width: 90%;
+    
+}
+
+.footer {
+    text-align: center;
+    margin-top: 0px;
+    padding-bottom: 50px;
+    
+}
+
+button {
+    font-family: 'Handlee', cursive;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #c0c0c0;
+    border-style: none;
+    border-bottom-style: solid ;
+}
